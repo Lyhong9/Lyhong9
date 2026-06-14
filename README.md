@@ -40,6 +40,9 @@
 - Node.js
 - Express.js
 - React.js
+- Next.js
+- PHP
+- Java Spring boot
 - HTML5
 - CSS3
 - Bootstrap
